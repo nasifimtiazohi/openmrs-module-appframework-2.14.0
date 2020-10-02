@@ -37,7 +37,7 @@
 		<openMRSVersion>1.9.9</openMRSVersion>
 		<webservicesRestVersion>2.21.0</webservicesRestVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <handlebarsVersion>1.1.2</handlebarsVersion>
+        <handlebarsVersion>1.3.2</handlebarsVersion>
 	</properties>
 
 	<dependencyManagement>
