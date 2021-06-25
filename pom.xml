@@ -37,7 +37,7 @@
 		<openMRSVersion>1.9.9</openMRSVersion>
 		<webservicesRestVersion>2.21.0</webservicesRestVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <handlebarsVersion>1.1.2</handlebarsVersion>
+        <handlebarsVersion>4.1.0</handlebarsVersion>
 	</properties>
 
 	<dependencyManagement>
@@ -282,7 +282,7 @@
                             <vulas.reach.timeout>60</vulas.reach.timeout>
 
                             
-                            <vulas.report.exceptionExcludeBugs />
+                            <vulas.report.exceptionExcludeBugs/>
                             <vulas.report.reportDir>${project.build.directory}/vulas/report</vulas.report.reportDir>
                         </layeredConfiguration>
                     </configuration>
